@@ -12,7 +12,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #A4AFD1;
+	background: #83A9EB;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -22,7 +22,7 @@ body {
 	
 }
 .nav {
-	background: #204E9E;
+	background: #2A67D1;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -38,7 +38,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #A4AFD1;
+	background: #83A9EB;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -46,10 +46,10 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #000000;
+     color: #FAE243;
 }
 a:visited {
-     color: #000000;
+     color: #FAE243;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
